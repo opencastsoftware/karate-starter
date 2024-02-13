@@ -4,10 +4,10 @@ This repo is example of Karate API Automation
 
 ## Tech Stack Used in Framework
 
-* Java 1.8
-* Maven 3.9.5
-* Karate 0.9.6
-* Junit 1.4.1
+* Java 
+* Maven 
+* Karate 
+* Junit 
 
 ## Overview On Framework
 
